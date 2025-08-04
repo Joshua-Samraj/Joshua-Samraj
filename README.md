@@ -9,6 +9,19 @@
   <a href="[YOUR_PORTFOLIO_URL_HERE](https://static-portfolio-six.vercel.app)"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" style="transition: all 0.3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 0 10px rgba(255,87,34,0.5)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'"/></a>
 </p>
 ---
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Samraj&theme=react-dark&hide_border=true&area=true)
+  
+  ![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshua-Samraj&show_icons=true&count_private=true&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Samraj&layout=compact&theme=radical&hide_border=true)
+  
+
+</div>
+
 
 ## 🔥 Current Focus
 
@@ -18,17 +31,6 @@
 - 📚 Deep diving into Quantum Machine Learning  
 
 ---
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-  ![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshua-Samraj&show_icons=true&count_private=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Samraj&layout=compact&theme=radical&hide_border=true)
-  
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Samraj&theme=react-dark&hide_border=true&area=true)
-
-</div>
 
 ## 🛠️ Tech Toolbox
 
