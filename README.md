@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/102308012?v=4" width="150" style="border-radius:50%;border: 3px solid #6e40c9;box-shadow: 0 0 20px rgba(110, 64, 201, 0.5);"/>
-</p>
+
 
 <h1 align="center">✨ Joshua Samraj ✨</h1>
 <h3 align="center">Electronics Engineer | AI/ML Researcher | Data Alchemist</h3>
