@@ -34,6 +34,10 @@
 
 </div>
 
+## Github Achivement
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Joshua-Samraj&theme=algolia&margin-w=10&no-frame=true" />
+</p>
 
 ##  Current Focus
 
