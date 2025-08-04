@@ -24,12 +24,12 @@
 
 <div align="center">
   
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulmillr&theme=react-dark&hide_border=true&area=true)
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Samraj&theme=react-dark&hide_border=true&area=true)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulmillr&theme=radical&hide_border=true)
-  ![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulmillr&show_icons=true&count_private=true&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joshua-Samraj&theme=radical&hide_border=true)
+  ![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshua-Samraj&show_icons=true&count_private=true&theme=radical&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmillr&layout=compact&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Samraj&layout=compact&theme=radical&hide_border=true)
   
 
 </div>
