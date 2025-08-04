@@ -18,6 +18,17 @@
 - 📚 Deep diving into Quantum Machine Learning  
 
 ---
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+  ![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshua-Samraj&show_icons=true&count_private=true&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Samraj&layout=compact&theme=radical&hide_border=true)
+  
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Samraj&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 ## 🛠️ Tech Toolbox
 
@@ -55,17 +66,7 @@
 
 ---
 
-## 📈 GitHub Analytics
 
-<div align="center">
-  
-  ![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshua-Samraj&show_icons=true&count_private=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Samraj&layout=compact&theme=radical&hide_border=true)
-  
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Samraj&theme=react-dark&hide_border=true&area=true)
-
-</div>
 
 ---
 
@@ -84,6 +85,3 @@
 - 🤝 Looking for **internship opportunities** in R&D
 - 💬 Ask me about **computer vision** or **edge AI**
 
-```bash
-# How to reach me
-echo "Connect with me at samjoshua.s2002@gmail.com"
