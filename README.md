@@ -24,7 +24,7 @@
 
 <div align="center">
   
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Samraj&theme=react-dark&hide_border=true&area=true)
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulmillr&theme=react-dark&hide_border=true&area=true)
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joshua-Samraj&theme=radical&hide_border=true)
   ![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshua-Samraj&show_icons=true&count_private=true&theme=radical&hide_border=true)
