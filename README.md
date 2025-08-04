@@ -4,12 +4,10 @@
 <h3 align="center">Electronics Engineer | AI/ML Researcher | Data Alchemist</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sam-joshua-s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: all 0.3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 0 10px rgba(10,102,194,0.5)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'"/></a>
-  <a href="https://twitter.com/SAM_JOSHUA_S"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="transition: all 0.3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 0 10px rgba(29,161,242,0.5)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'"/></a>
-  <a href="mailto:samjoshua.s2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="transition: all 0.3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 0 10px rgba(234,67,53,0.5)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'"/></a>
-  <a href="https://github.com/Joshua-Samraj"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" style="transition: all 0.3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 0 10px rgba(24,23,23,0.5)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'"/></a>
+  <a href="https://www.linkedin.com/in/joshua-samraj-j-64a316263"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: all 0.3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 0 10px rgba(10,102,194,0.5)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'"/></a>
+  <a href="mailto:j.joshuasamraj@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="transition: all 0.3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 0 10px rgba(234,67,53,0.5)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'"/></a>
+  <a href="[YOUR_PORTFOLIO_URL_HERE](https://static-portfolio-six.vercel.app)"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" style="transition: all 0.3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 0 10px rgba(255,87,34,0.5)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'"/></a>
 </p>
-
 ---
 
 ## 🔥 Current Focus
